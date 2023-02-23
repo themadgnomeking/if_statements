@@ -1,0 +1,15 @@
+D:\Projects\dotnet\learn\syntax\if_statements\bin\Debug\net7.0\if_statements.exe
+D:\Projects\dotnet\learn\syntax\if_statements\bin\Debug\net7.0\if_statements.deps.json
+D:\Projects\dotnet\learn\syntax\if_statements\bin\Debug\net7.0\if_statements.runtimeconfig.json
+D:\Projects\dotnet\learn\syntax\if_statements\bin\Debug\net7.0\if_statements.dll
+D:\Projects\dotnet\learn\syntax\if_statements\bin\Debug\net7.0\if_statements.pdb
+D:\Projects\dotnet\learn\syntax\if_statements\obj\Debug\net7.0\if_statements.csproj.AssemblyReference.cache
+D:\Projects\dotnet\learn\syntax\if_statements\obj\Debug\net7.0\if_statements.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\dotnet\learn\syntax\if_statements\obj\Debug\net7.0\if_statements.AssemblyInfoInputs.cache
+D:\Projects\dotnet\learn\syntax\if_statements\obj\Debug\net7.0\if_statements.AssemblyInfo.cs
+D:\Projects\dotnet\learn\syntax\if_statements\obj\Debug\net7.0\if_statements.csproj.CoreCompileInputs.cache
+D:\Projects\dotnet\learn\syntax\if_statements\obj\Debug\net7.0\if_statements.dll
+D:\Projects\dotnet\learn\syntax\if_statements\obj\Debug\net7.0\refint\if_statements.dll
+D:\Projects\dotnet\learn\syntax\if_statements\obj\Debug\net7.0\if_statements.pdb
+D:\Projects\dotnet\learn\syntax\if_statements\obj\Debug\net7.0\if_statements.genruntimeconfig.cache
+D:\Projects\dotnet\learn\syntax\if_statements\obj\Debug\net7.0\ref\if_statements.dll
