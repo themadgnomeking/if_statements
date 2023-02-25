@@ -57,10 +57,11 @@ else
     Console.WriteLine("It's nice to meet you " + firstName);
 }
 */
+/*
 // Fourth Test - nested if statements
 
 string firstName = "Tims";
-string lastName = "Guynes";
+string lastName = "Doe";
 
 if (firstName == "Tims")
 {
@@ -84,3 +85,18 @@ else
         Console.WriteLine($"It's nice to meet you {firstName} {lastName}.");
     }
 }
+*/
+/*
+// Fifth Test - not features
+ string firstName = "Tims";
+ string lastName = "Guynes";
+
+ if (firstName != "Tims" && lastName != "Guynes")
+ {
+    Console.WriteLine($"Hello {firstName}, it's nice to meet you.");
+ }
+ else
+ {
+    Console.WriteLine($"Welcome back {firstName}.");
+ }
+ */
