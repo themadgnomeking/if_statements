@@ -43,6 +43,7 @@ else
     Console.WriteLine("Hello you other person you");
 }
 */
+/*
 // Third test - variable display
 string firstName = "Jim";
 string lastName = "Guynes";
@@ -54,4 +55,32 @@ if (firstName == "Tims" && lastName == "Guynes")
 else
 {
     Console.WriteLine("It's nice to meet you " + firstName);
+}
+*/
+// Fourth Test - nested if statements
+
+string firstName = "Tims";
+string lastName = "Guynes";
+
+if (firstName == "Tims")
+{
+    if (lastName == "Guynes")
+    {
+        Console.WriteLine($"Welcome Back {firstName}");
+    }
+    else
+    {
+        Console.WriteLine($"Hello, I see you have my first name, facinating {firstName}.");
+    }
+}
+else
+{
+    if (lastName == "Guynes")
+    {
+        Console.WriteLine($"It's good to see a member of the family, what's your favorite pronounciation of our last name {firstName}?");
+    }
+    else
+    {
+        Console.WriteLine($"It's nice to meet you {firstName} {lastName}.");
+    }
 }
